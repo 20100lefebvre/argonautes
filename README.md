@@ -17,7 +17,7 @@ améliorer sa mise en page, en disposant les noms des argonautes sur trois colon
 ### étapes:
 1. Créer une application web simple dans votre langage de prédilection.
 2. Stocker les données de cette application dans une base de données.
-***
+
 
 ## Technologies
 ***
