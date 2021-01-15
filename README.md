@@ -6,7 +6,7 @@
 1. [Infos](#infos)
 2. [Technologies](#Technologies)
 
-##Infos
+## Infos
 ***
 Pour résumer, il s'agit d'implémenter les fonctionnalités **"Create" et "Read" de l'acronyme "CRUD" !** 
 Puis d'enjoliver la présentation avec du CSS.
